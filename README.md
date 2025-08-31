@@ -30,4 +30,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=arikaran03&show_icons=true&locale=en" alt="arikaran03" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arikaran03&" alt="arikaran03" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=arikaran03&show_icons=true&locale=en&layout=compact" alt="arikaran03" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arikaran03" alt="arikaran03" /></a></p>
+<!-- <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arikaran03" alt="arikaran03" /></a></p> -->
