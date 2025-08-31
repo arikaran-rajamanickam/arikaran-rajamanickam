@@ -3,8 +3,8 @@
 <p>Passionate about Full-Stack Development (MERN) and Backend Engineering</p>  
 <p>Lead of the Competitive Programming Club, organizing contests and maintaining a custom leaderboard system</p>  
 <p>Solved 700+ problems on LeetCode and consistently improving my DSA skills</p>  
-<p>Worked on projects involving AI-powered automation, market research scraping, and smart task management systems</p>  
-<p>Interested in Software Development, Artificial Intelligence, and System Design</p>  
+<p>Worked on projects involving AI-powered automation and smart task management systems</p>  
+<p>Interested in Software Development and Artificial Intelligence</p>  
 <p>Currently learning Advanced Data Structures, Java, and Full-Stack Development</p>  
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
