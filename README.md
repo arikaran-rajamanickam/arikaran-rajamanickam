@@ -1,8 +1,8 @@
 <h1>I'm currently a SDE Intern @ZOHO Corporations</h1>
 <p>I am currently pursuing my Bachelor of Engineering in ECE </p>  
-<p>Passionate about Full-Stack Development (MERN) and Backend Engineering</p>  
+<p>Passionate about Full-Stack Development and Backend Engineering</p>  
 <p>Lead Content Creator of the Competitive Programming Club, organizing contests and maintaining a custom leaderboard system</p>  
-<p>Solved 700+ problems on LeetCode and consistently improving my DSA skills</p>  
+<p>Solved 1200+ problems on LeetCode and other platforms and consistently improving my DSA skills</p>  
 <p>Worked on projects involving AI-powered automation and smart task management systems</p>  
 <p>Interested in Software Development and Artificial Intelligence</p>  
 <p>Currently learning Advanced Data Structures, Java, and Full-Stack Development</p>  
