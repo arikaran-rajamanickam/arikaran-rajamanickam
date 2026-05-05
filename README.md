@@ -1,4 +1,4 @@
-<h1>I'm currently a SDE Intern @ZOHO Corporations</h1>
+<h1>I'm currently a SDE @ZOHO Corporations</h1>
 <p>I am currently pursuing my Bachelor of Engineering in ECE </p>  
 <p>Passionate about Full-Stack Development and Backend Engineering</p>  
 <p>Lead Content Creator of the Competitive Programming Club, organizing contests and maintaining a custom leaderboard system</p>  
