@@ -7,7 +7,7 @@
 ### 👨‍💻 About Me
 
 - 💼 Currently working as a Software Developer at Zoho
-- 🎓 Pursuing a Bachelor of Engineering in Electronics and Communication Engineering
+- 🎓 Completed a Bachelor of Engineering in Electronics and Communication Engineering
 - 🚀 Passionate about Full-Stack Development and Backend Engineering
 - 🏆 Lead Content Creator of the Competitive Programming Club
 - 📈 Organize coding contests and maintain a custom leaderboard system
