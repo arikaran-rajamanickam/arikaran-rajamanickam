@@ -10,7 +10,6 @@
 - 🎓 Completed a Bachelor of Engineering in Electronics and Communication Engineering
 - 🚀 Passionate about Full-Stack Development and Backend Engineering
 - 🏆 Lead Content Creator of the Competitive Programming Club
-- 📈 Organize coding contests and maintain a custom leaderboard system
 - 💡 Solved 1200+ problems across LeetCode and other coding platforms
 - 🤖 Built projects involving AI-powered automation and smart task management
 - 📚 Currently learning Advanced Data Structures, Java, System Design, and Full-Stack Development
